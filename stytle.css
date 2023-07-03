@@ -1,0 +1,39 @@
+body{
+    background-color: rebeccapurple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#container{
+    color: aqua;
+}
+.digit{
+    font-size: 150px;
+    font-weight: bold;
+}
+.text{
+    font-size: 40px;
+    font-weight: bold;
+}
+#buttonc{
+    text-align: center;
+    margin-top: 40px;
+}
+.btn{
+    color: antiquewhite;
+    padding: 10px;
+    margin: 10px 10px ;
+    cursor: pointer;
+    border-radius: 10px;
+}
+#start{background-color: aqua;
+
+}
+#stop{
+
+    background-color: blue;
+}
+#reset{
+ background-color: black;
+}
